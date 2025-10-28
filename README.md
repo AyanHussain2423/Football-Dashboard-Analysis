@@ -6,6 +6,13 @@ A **Football Data Analytics Project** built using Python and SQL to analyze play
 The goal of this project is to explore how data such as expected goals (xG), assists, passes, and shots can describe team strengths and player efficiency.
 
 ---
+## 📸 Power BI Dashboard Preview
+
+<img width="800" height="600" alt="PBIDesktop_AmZ6pYx0Jh" src="https://github.com/user-attachments/assets/694a8832-eed2-4888-a2eb-d8cef81e9e4f" />
+<img width="800" height="350" alt="PBIDesktop_YqVOjmmgfl" src="https://github.com/user-attachments/assets/3021e76e-2dd9-46f0-9956-b248bd779b00" />
+<img width="800" height="550" alt="PBIDesktop_UBn0xhSCxz" src="https://github.com/user-attachments/assets/6cff3286-110a-4bc4-8b1d-2f0d36be3ace" />
+<img width="800" height="500" alt="PBIDesktop_tXNi7N9GMT" src="https://github.com/user-attachments/assets/24aeb5fa-70c0-439c-8fa8-770b08422ce5" />
+<img width="800" height="300" alt="PBIDesktop_NHn7kCn2QE" src="https://github.com/user-attachments/assets/70febf42-f751-4d40-b6a2-1ddd4a598693" />
 
 ## 🧩 Project Description
 
