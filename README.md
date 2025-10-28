@@ -1,3 +1,4 @@
+<div align="left">
 # ⚽ Football Dashboard Analysis
 
 A **Football Data Analytics Project** built using Python and SQL to analyze player and team performances across different leagues.  
@@ -68,3 +69,4 @@ From identifying top-performing players to comparing xGoals with actual goals, t
 ---
 
 *Created by Ayan Hussain — Football Data Analysis Project 2025*
+</div>
